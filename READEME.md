@@ -8,8 +8,7 @@
 
 4. Materialize the mockup with HTML & CSS files in a single page app. (Does not need to be functional.)
 
-*** Parameters ***
-
-Desktop: 1440px
-Tablet: 1024px
-Phone: 640px
+**Parameters:**  
+Desktop: 1440px  
+Tablet: 1024px  
+Phone: 640px  
