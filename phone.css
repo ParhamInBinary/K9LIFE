@@ -1,0 +1,99 @@
+/* ========= ========= PHONE ========= =========*/
+@media screen and (max-width: 640px) {
+    /* ========= ========= HEADER ========= =========*/
+    header {
+      padding: 0 1rem;
+    }
+  
+    .menubar ul {
+      display: none;
+    }
+  
+    .menubar .burger {
+      height: 100%;
+      width: 2.5rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 0.4rem;
+    }
+  
+    .burgerstripe {
+      background-color: red;
+      height: 7px;
+    }
+  
+    .menubar {
+      display: flex;
+      justify-content: flex-end;
+    }
+  
+    /* ========= ========= MASTHEAD ========= =========*/
+    .masthead {
+      background-position: 60% 0;
+      background-size: 270%;
+      padding: 0 1rem;
+    }
+  
+    .pitchText {
+      font-size: 40px;
+    }
+  
+    .pitch2 {
+      font-size: 40px;
+    }
+  
+    .bestfriend {
+      margin-left: 10px;
+    }
+  
+    /* ========= ========= SHOP ========= =========*/
+    .shopSection {
+      margin: 0;
+    }
+  
+    /* ========= ========= VET ========= =========*/
+    .vetSection {
+      margin: 0;
+      height: 930px;
+    }
+  
+    .vetStaff {
+      flex-direction: column;
+      justify-content: flex-start;
+    }
+  
+    /* ========= ========= COURSES ========= =========*/
+    .coursesSection {
+      height: 1415px;
+      margin: 0;
+      gap: 2%;
+    }
+  
+    .coursesDiv {
+      display: flex;
+      justify-content: space-evenly;
+      flex-direction: column;
+      height: 100%;
+    }
+  
+    .courseOption {
+      height: 25%;
+    }
+  
+    .optionInfo {
+      justify-content: space-evenly;
+    }
+  
+    /* ========= ========= FOOTER ========= =========*/
+    footer {
+      height: 1160px;
+      flex-direction: column;
+      gap: 3rem;
+    }
+  
+    .contactColumn {
+      height: 100%;
+    }
+  }
+  
