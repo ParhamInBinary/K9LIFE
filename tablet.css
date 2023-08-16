@@ -1,0 +1,63 @@
+/* ========= ========= TABLET ========= =========*/
+@media screen and (max-width: 1024px) {
+    /* ========= ========= HEADER ========= =========*/
+    header {
+      padding: 0 2rem;
+    }
+  
+    .menubar {
+        width: 50%;
+    }
+  
+    /* ========= ========= MASTHEAD ========= =========*/
+    .masthead {
+      background-position: 60% 0;
+      background-size: 200%;
+      padding: 0 2rem;
+    }
+  
+    .pitchText {
+      font-size: 40px;
+    }
+  
+    .pitch2 {
+      font-size: 40px;
+    }
+  
+    .bestfriend {
+      margin-left: 10px;
+    }
+  
+    /* ========= ========= SHOP ========= =========*/
+    .shopSection {
+      margin: 0 2rem;
+    }
+  
+    /* ========= ========= VET ========= =========*/
+    .vetSection {
+      margin: 0 2rem;
+    }
+  
+    /* ========= ========= COURSES ========= =========*/
+    .coursesSection {
+      margin: 0 2rem;
+      gap: 2%;
+    }
+  
+    .coursesDiv {
+      display: flex;
+      justify-content: space-evenly;
+      text-align: center;
+    }
+  
+    /* ========= ========= FOOTER ========= =========*/
+    footer {
+      gap: 3rem;
+    }
+  
+    .contactColumn {
+      justify-content: flex-start;
+      height: 25rem;
+    }
+  }
+  
